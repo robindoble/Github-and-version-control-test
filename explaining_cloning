@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Cloning exits to be able to create a local copy of a github repo including the full directory and file structure. At the same time a remote connection is established to be able to pull information from the github repo, and depending on whether it is ones own repo or they are a nominated collaborator, to push to as well. One needs to be careful not to double nest folders or create a local git repo within an existing local repo.
